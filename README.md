@@ -11,6 +11,7 @@
 
 - 📄 Know about my experiences [Worked in a group of two for local contests](Worked in a group of two for local contests)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tb3b2gvomdrlxxqp2g6cetgx4&cover_image=false&theme=default&bar_color=32e22c&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=tb3b2gvomdrlxxqp2g6cetgx4&redirect=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/validolxm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="validolxm" height="30" width="40" /></a>
