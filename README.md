@@ -11,4 +11,5 @@
 
 - 📄 Know about my experiences 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KotSSas&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotSSas)](https://github.com/anuraghazra/github-readme-stats)
+[![KotSSas's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KotSSas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![KotSSas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=KotSSas&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
