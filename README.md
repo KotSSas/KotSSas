@@ -11,4 +11,4 @@
 
 - 📄 Know about my experiences 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KotSSas&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotSSas)](https://github.com/anuraghazra/github-readme-stats)
