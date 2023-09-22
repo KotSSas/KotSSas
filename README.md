@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **sashasmug@gmail.com**
 
-- 📄 Know about my experiences [Worked in a group of two for local contests](Worked in a group of two for local contests)
+- 📄 Know about my experiences 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=KotSSas&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
